@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><grados> 25,2</grados> <CelsiusToFahrenheitResult>77,36</CelsiusToFahrenheitResult></Row>
+<Row><grados> 35,4</grados> <CelsiusToFahrenheitResult>95,72</CelsiusToFahrenheitResult></Row>
+<Row><grados> 40,1</grados> <CelsiusToFahrenheitResult>104,18</CelsiusToFahrenheitResult></Row>
+<Row><grados> 10,2</grados> <CelsiusToFahrenheitResult>50,36</CelsiusToFahrenheitResult></Row>
+</Rows>
